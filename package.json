@@ -1,0 +1,14 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "App to optimise images for web/personal use",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Manlio Chite`",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.1.2"
+  }
+}
